@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khang, or you can call me Blue</h1>
 <h3 align="center">Software Engineering Student | Backend Developer | Enthusiasm in Algorithms</h3>
-<img align="right" alt="coding" width="400" src="https://www.reddit.com/r/memes/comments/jn7nhz/y_coding_so_hard/">
+<img align="right" alt="coding" width="400" src="https://i.redd.it/i1p4m7r7zzw51.png">
 
 - 💬 Ask me about **Algorithms**
 
