@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khang, or you can call me Blue</h1>
 <h3 align="center">Software Engineering Student | Backend Developer | Enthusiasm in Algorithms</h3>
-<img align="right" alt="coding" width="400" src="https://www.reddit.com/r/memes/comments/jn7nhz/y_coding_so_hard/">
+<img align="right" alt="coding" width="400" src="https://i.redd.it/i1p4m7r7zzw51.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khangphambm&label=Profile%20views&color=0e75b6&style=flat" alt="khangphambm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khangphambm" alt="khangphambm" /></a> </p>
